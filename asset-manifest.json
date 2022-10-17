@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/developmenttest/static/css/main.e10a96dd.css",
-    "main.js": "/developmenttest/static/js/main.4d8df1b3.js",
-    "static/js/787.4be7cfc5.chunk.js": "/developmenttest/static/js/787.4be7cfc5.chunk.js",
-    "static/media/bg.jpg": "/developmenttest/static/media/bg.a05eedd8766684aa61be.jpg",
-    "static/media/questio.png": "/developmenttest/static/media/questio.9eb60598fc38b81d2d48.png",
-    "static/media/question.png": "/developmenttest/static/media/question.9e106fdb902ea080082b.png",
-    "static/media/questionthree.png": "/developmenttest/static/media/questionthree.78aa7b1dbe64fd75c58b.png",
-    "static/media/questionone.png": "/developmenttest/static/media/questionone.536051211b004d197430.png",
-    "index.html": "/developmenttest/index.html",
-    "main.e10a96dd.css.map": "/developmenttest/static/css/main.e10a96dd.css.map",
-    "main.4d8df1b3.js.map": "/developmenttest/static/js/main.4d8df1b3.js.map",
-    "787.4be7cfc5.chunk.js.map": "/developmenttest/static/js/787.4be7cfc5.chunk.js.map"
+    "main.css": "/graphictest/static/css/main.709545d0.css",
+    "main.js": "/graphictest/static/js/main.622fe4a4.js",
+    "static/js/787.4be7cfc5.chunk.js": "/graphictest/static/js/787.4be7cfc5.chunk.js",
+    "static/media/bg.jpg": "/graphictest/static/media/bg.a05eedd8766684aa61be.jpg",
+    "static/media/emphasis.png": "/graphictest/static/media/emphasis.41947b2b406ff0344880.png",
+    "static/media/contrast.png": "/graphictest/static/media/contrast.1add56ab5d9917dad432.png",
+    "static/media/questio.png": "/graphictest/static/media/questio.9eb60598fc38b81d2d48.png",
+    "static/media/question.png": "/graphictest/static/media/question.9e106fdb902ea080082b.png",
+    "static/media/questionthree.png": "/graphictest/static/media/questionthree.78aa7b1dbe64fd75c58b.png",
+    "static/media/questionone.png": "/graphictest/static/media/questionone.536051211b004d197430.png",
+    "index.html": "/graphictest/index.html",
+    "static/media/index.cjs": "/graphictest/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.709545d0.css.map": "/graphictest/static/css/main.709545d0.css.map",
+    "main.622fe4a4.js.map": "/graphictest/static/js/main.622fe4a4.js.map",
+    "787.4be7cfc5.chunk.js.map": "/graphictest/static/js/787.4be7cfc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e10a96dd.css",
-    "static/js/main.4d8df1b3.js"
+    "static/css/main.709545d0.css",
+    "static/js/main.622fe4a4.js"
   ]
 }
