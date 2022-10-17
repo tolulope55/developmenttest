@@ -1,11 +1,12 @@
 
 import './App.css';
+import DesignAss from './component/DesignAss';
 import DevelopmentTest from './component/DevelopmentTest';
 
 function App() {
   return (
     <div className="App">
-     <DevelopmentTest />
+    <DesignAss />
     </div>
   );
 }

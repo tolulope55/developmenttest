@@ -125,11 +125,11 @@ const DesignAss = () => {
        <div className='bg-[#252d4a] m-6 test max-[300px] sm:max-w-[700px] md:max-w-[800px] mx-auto'>
        {showScore ? (
 				<div className=' grid grid-rows-2'>
-                    { score < 5 ? <p className='mt-2'>Hmm... You are not a failure!. Retake the test</p> : <p>Congratulations tommy! i think you will make an amazing designer</p> }
-                    <div className='flex'> 
-                        <button onClick={() => setResult('result')} className='h-10'>See result</button>
-                        <button onClick={retake} className='h-10'>Retake the test</button>
-                    </div>
+                    { score < 5 ? <p className='mt-2 py-3 text-[12px] sm:text-[14px] md:text-[17px]'>Hmm... You are not a failure! Retake the test</p> : <p className='py-3 text-[12px] sm:text-[14px] md:text-[17px] font-[500]'>Congratulations, I think you'd make a great Graphic designer; practice more to become the best version of yourself, and your efforts will be crowned with success.</p> }
+                   <div className='flex'> 
+                       <button onClick={() => setResult('result')} className='h-10 text-[12px] sm:text-[14px] md:text-[17px]'>See result</button>
+                       <button onClick={retake} className='h-10 text-[12px] sm:text-[14px] md:text-[17px]'>Retake the test</button>
+                   </div>
                      {Result === 'result' && <p>You scored {score} out of {questions.length}</p>}
 				</div>  
          
